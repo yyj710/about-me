@@ -6,7 +6,7 @@ Finance major (ACCA track) at Shenzhen University, Class of 2029. I build things
 
 ## At a glance
 
-- **ACCA**: 5/13 exams passed (BT/FA/MA/LW/PM) — [certificate](awards/ACCA5门通过证明.pdf)
+- **ACCA**: 7/13 exams passed (BT/FA/MA/LW/PM/TX/AA) — [certificate](awards/ACCA5门通过证明.pdf) (shows 5; latest transcript being updated)
 - **GPA**: 3.56 (avg 81/100), freshman year
 - **Competitions**: Lingnan University Business Case Competition 3rd Prize (6th) · ACCA JHC South China Regional Semi-finalist (team captain) · Guangdong-Hong Kong-Macao Accounting Knowledge Competition: Provincial Top 5, finalist
 - **Full-stack**: shipped a live web platform ([qianhuoduan](https://github.com/yyj710/qianhuoduan)) from zero knowledge in 2 weeks

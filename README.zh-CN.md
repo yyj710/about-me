@@ -6,7 +6,7 @@
 
 ## 一页看懂我
 
-- **ACCA**：已过 5 门（BT/FA/MA/LW/PM）→ [官方通过证明](awards/ACCA5门通过证明.pdf)
+- **ACCA**：已过 7 门（BT/FA/MA/LW/PM/TX/AA）→ [官方通过证明](awards/ACCA5门通过证明.pdf)（5门版，最新7门成绩单更新中）
 - **GPA**：3.56（均分 81），大一
 - **竞赛**：岭南大学案例分析大赛三等奖（第 6 名）· ACCA JHC 华南区复赛（队长）· 粤港澳会计知识竞赛广东省前 5 进决赛
 - **全栈**：零基础 2 周做出上线网站 [qianhuoduan](https://github.com/yyj710/qianhuoduan)
