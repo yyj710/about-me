@@ -6,7 +6,7 @@ Finance major (ACCA track) at Shenzhen University, Class of 2029. I build things
 
 ## At a glance
 
-- **ACCA**: 7/13 exams passed (BT/FA/MA/LW/PM/TX/AA) — [certificate](awards/ACCA5门通过证明.pdf) (shows 5; latest transcript being updated)
+- **ACCA**: 7/13 exams passed (BT/FA/MA/LW/PM/TX/AA) — [certificate](awards/ACCA5门通过证明.pdf) 
 - **GPA**: 3.56 (avg 81/100), freshman year
 - **Competitions**: Lingnan University Business Case Competition 3rd Prize (6th) · ACCA JHC South China Regional Semi-finalist (team captain) · Guangdong-Hong Kong-Macao Accounting Knowledge Competition: Provincial Top 5, finalist
 - **Full-stack**: shipped a live web platform ([qianhuoduan](https://github.com/yyj710/qianhuoduan)) from zero knowledge in 2 weeks
@@ -24,7 +24,7 @@ Finance major (ACCA track) at Shenzhen University, Class of 2029. I build things
 | ACCA JHC 2026 — advanced to South China regional round (team: 尼深小纵队) | [初赛结果通知](awards/初赛结果通知-深圳大学-尼深小纵队(2).pdf) · [复赛入围](awards/ACCAjhc复赛入围.pdf) |
 | Lingnan University Business Case Competition — 3rd Prize (6th) | [certificate 1](awards/岭南大学案例分析大赛1.pdf) · [certificate 2](awards/岭南大学案例分析大赛2.pdf) |
 | Guangdong-Hong Kong-Macao Accounting Knowledge Competition | [参赛证书](awards/参赛证书-袁裕杰-GHM-2026-0394.pdf) |
-| ACCA 5 exams passed | [official transcript](awards/ACCA5门通过证明.pdf) |
+| ACCA 7 exams passed | [official transcript](awards/ACCA5门通过证明.pdf) |
 
 ## My work map
 
