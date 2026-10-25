@@ -47,7 +47,7 @@ Advised a consumer-electronics contract manufacturer (benchmarked against Foxcon
 200 teams from 32 universities; the final is held on 2026-11-28.
 
 - **Question-bank engineering**: Located prior-edition banks from public channels (1,000 + 483 questions from two sources), merged and deduplicated into 1,472 questions; distribution analysis locked the focus on enterprise + government accounting — strategy shifted from "cover everything" to "break through the high-frequency core"
-- **Human-AI parallel work**: Claude Code wrote per-question deep explanations + mnemonics in the background while I worked through 700 junior-accounting practice questions myself — AI covers explanations, I cover foundations
+- **Human-AI parallel work**: Claude Code wrote per-question deep explanations + mnemonics in the background while I worked through 700 junior-accounting practice questions myself to build foundations
 - **Knowledge engineering**: every question tagged by knowledge point and ranked by frequency; 13 modules, each with a knowledge framework, core exam points, top-10 traps, quick-reference tables, and full question practice; pre-exam split into "deep-understanding" vs "memorize-and-score" tracks, deliberately skipping low-frequency hard topics (long-term equity, leases)
 - **Toolchain & quality**: xlsx structuring → Python scripts for parsing / assembly / independent validation (character-level diff against the original bank: zero differences) → Word handbooks distributed to the whole team
 - **Result**: Provincial Top 5, advanced to the final
