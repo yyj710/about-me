@@ -73,6 +73,8 @@ Designed a supply-chain decarbonization plan for a cross-border fashion company 
 - **Solution design**: Studied real-world cases (SHEIN, H&M, Inditex, Levi's), proposed a digital supplier-tiering strategy (Kraljic matrix), and used a digital platform to quantify environmental performance
 - **Deliverable**: A three-year decarbonization roadmap plus financial feasibility analysis, compiled into a 12-page report
 
+→ Case materials: [case-studies / KPMG ESG](https://github.com/yyj710/case-studies/tree/main/04-毕马威ESG) (fully hand-made in my first semester — kept as a pre-AI-collaboration baseline)
+
 ## Projects
 
 ### Joint Sponge (May 2026 – present) | Finance team | Advanced to the provincial competition
