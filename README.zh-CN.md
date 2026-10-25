@@ -6,7 +6,7 @@
 
 ## 一页看懂我
 
-- **ACCA**：已过 7 门（BT/FA/MA/LW/PM/TX/AA）→ [官方通过证明](awards/ACCA5门通过证明.pdf)（5门版，最新7门成绩单更新中）
+- **ACCA**：已过 7 门（BT/FA/MA/LW/PM/TX/AA）→ [官方通过证明](awards/ACCA5门通过证明.pdf)
 - **GPA**：3.56（均分 81），大一
 - **竞赛**：岭南大学案例分析大赛三等奖（第 6 名）· ACCA JHC 华南区复赛（队长）· 粤港澳会计知识竞赛广东省前 5 进决赛
 - **全栈**：零基础 2 周做出上线网站 [qianhuoduan](https://github.com/yyj710/qianhuoduan)
@@ -24,7 +24,7 @@
 | ACCA JHC 2026 华南区复赛（尼深小纵队） | [初赛结果通知](awards/初赛结果通知-深圳大学-尼深小纵队(2).pdf) · [复赛入围通知](awards/ACCAjhc复赛入围.pdf) |
 | 岭南大学商业案例分析大赛 三等奖（第 6 名） | [证书 1](awards/岭南大学案例分析大赛1.pdf) · [证书 2](awards/岭南大学案例分析大赛2.pdf) |
 | 粤港澳会计知识竞赛（广东省前 5） | [参赛证书](awards/参赛证书-袁裕杰-GHM-2026-0394.pdf) |
-| ACCA 通过 5 门 | [官方证明](awards/ACCA5门通过证明.pdf) |
+| ACCA 通过 7 门 | [官方证明](awards/ACCA5门通过证明.pdf) |
 
 ## 作品地图
 
