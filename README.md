@@ -44,11 +44,12 @@ Advised a consumer-electronics contract manufacturer (benchmarked against Foxcon
 
 ### 2. Guangdong–Hong Kong–Macao Accounting Knowledge Competition (Oct 2026) | Team captain | Provincial Top 5, advanced to finals
 
-200 teams. The 7th edition publishes no official question bank.
+200 teams from 32 universities; the final is held on 2026-11-28.
 
-- **Information retrieval**: Located the 4th-edition bank through public channels (1,000 + 483 questions from two sources), merged and deduplicated into 1,472 questions
-- **Knowledge engineering**: Split into 13 modules (Accounting Law, Enterprise Accounting Standards, Government Accounting Standards, Internal Control, Tax Law, Budget Law, etc.), each with a knowledge framework, core exam points, top-10 traps, quick-reference tables, and full question practice
-- **Toolchain**: Anki for spaced repetition → xlsx for structuring → Claude + WorkBuddy for batch-generated explanations → Word handbooks distributed to the whole team
+- **Question-bank engineering**: Located prior-edition banks from public channels (1,000 + 483 questions from two sources), merged and deduplicated into 1,472 questions; distribution analysis locked the focus on enterprise + government accounting — strategy shifted from "cover everything" to "break through the high-frequency core"
+- **Human-AI parallel work**: Claude Code wrote per-question deep explanations + mnemonics in the background while I worked through 700 junior-accounting practice questions myself — AI covers explanations, I cover foundations
+- **Knowledge engineering**: every question tagged by knowledge point and ranked by frequency; 13 modules, each with a knowledge framework, core exam points, top-10 traps, quick-reference tables, and full question practice; pre-exam split into "deep-understanding" vs "memorize-and-score" tracks, deliberately skipping low-frequency hard topics (long-term equity, leases)
+- **Toolchain & quality**: xlsx structuring → Python scripts for parsing / assembly / independent validation (character-level diff against the original bank: zero differences) → Word handbooks distributed to the whole team
 - **Result**: Provincial Top 5, advanced to the final
 
 → Full material: [accounting-prep-bootcamp](https://github.com/yyj710/accounting-prep-bootcamp)
@@ -147,7 +148,7 @@ A Python pipeline that turns my daily journal into tags, wiki pages, weekly revi
 | ACCA JHC 2026 — South China regional round (team: 尼深小纵队) | [Campus result notice](awards/初赛结果通知-深圳大学-尼深小纵队(2).pdf) · [Regional qualification](awards/ACCAjhc复赛入围.pdf) |
 | Lingnan University Business Case Competition — 3rd Prize (6th) | [Certificate 1](awards/岭南大学案例分析大赛1.pdf) · [Certificate 2](awards/岭南大学案例分析大赛2.pdf) |
 | Guangdong–Hong Kong–Macao Accounting Knowledge Competition (Provincial Top 5) | [Participation certificate](awards/参赛证书-袁裕杰-GHM-2026-0394.pdf) |
-| ACCA exam progress | [5-exam pass certificate](awards/ACCA5门通过证明.pdf) (latest transcript pending) |
+| ACCA exam progress (7/13) | [7-exam pass certificate](awards/ACCA7门通过证明.pdf) |
 
 ## Contact
 
