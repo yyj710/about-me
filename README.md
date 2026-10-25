@@ -12,7 +12,7 @@ Running three tracks in parallel — financial analysis, business modeling, and 
 | Item | Detail |
 |------|--------|
 | University / Major | Shenzhen University · Accounting (International Accounting Innovation Class, ACCA track) |
-| Degree / Year | Bachelor · enrolled Sep 2025|
+| Degree / Year | Bachelor · enrolled Sep 2025 |
 | Academic record | GPA 3.56 / average 81 out of 100 |
 | ACCA progress | 7 of 13 exams passed: BT, FA, MA, LW, PM, TX, AA |
 | Other certificates | CET-4 (English), National Computer Rank Examination Level 2 |
@@ -126,7 +126,7 @@ A Python pipeline that turns my daily journal into tags, wiki pages, weekly revi
 
 ## Personal traits
 
-- **Discipline**: Wake at 6:30 and run 4 km every day — a habit kept since the first year of high school
+- **Discipline**: Wake at 6:30 and run 4 km every day — a habit kept since the first year of high school; built for high-pressure environments
 - **Hands-on first**: Learn by doing and iterate with feedback — when I couldn't build a website, I built and shipped one
 - **Process documented**: Every project keeps the full chain — requirements → architecture → data working papers → retrospective; the repos show the process, not just the result
 - **Every number has a source**: Assumption trails and audit working papers are the default working style
@@ -141,7 +141,7 @@ A Python pipeline that turns my daily journal into tags, wiki pages, weekly revi
 | [HKPFapp](https://github.com/yyj710/HKPFapp) | UX prototyping: [live demo](https://yyj710.github.io/HKPFapp/) + spec-driven docs |
 | [accounting-prep-bootcamp](https://github.com/yyj710/accounting-prep-bootcamp) | Learning & leadership: 1,472-question prep system that carried the team to the provincial final |
 
-## Verified awards
+## Award certificates
 
 | Award | Proof |
 |-------|-------|
