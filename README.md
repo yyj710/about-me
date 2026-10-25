@@ -12,7 +12,7 @@ Running three tracks in parallel — financial analysis, business modeling, and 
 | Item | Detail |
 |------|--------|
 | University / Major | Shenzhen University · Accounting (International Accounting Innovation Class, ACCA track) |
-| Degree / Year | Bachelor · enrolled Sep 2025, currently a freshman |
+| Degree / Year | Bachelor · enrolled Sep 2025|
 | Academic record | GPA 3.56 / average 81 out of 100 |
 | ACCA progress | 7 of 13 exams passed: BT, FA, MA, LW, PM, TX, AA |
 | Other certificates | CET-4 (English), National Computer Rank Examination Level 2 |
