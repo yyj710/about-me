@@ -71,7 +71,7 @@ Designed a supply-chain decarbonization plan for a cross-border fashion company 
 
 - **Supply-chain analysis**: Researched the apparel industry and identified optimization levers upstream (materials, energy) and downstream (marketing, recycling)
 - **Solution design**: Studied real-world cases (SHEIN, H&M, Inditex, Levi's), proposed a digital supplier-tiering strategy (Kraljic matrix), and used a digital platform to quantify environmental performance
-- **Deliverable**: A three-year decarbonization roadmap plus financial feasibility analysis, compiled into a 12-page English report
+- **Deliverable**: A three-year decarbonization roadmap plus financial feasibility analysis, compiled into a 12-page report
 
 ## Projects
 
