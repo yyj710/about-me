@@ -52,7 +52,7 @@ Advised a consumer-electronics contract manufacturer (benchmarked against Foxcon
 - **Toolchain & quality**: xlsx structuring → Python scripts for parsing / assembly / independent validation (character-level diff against the original bank: zero differences) → Word handbooks distributed to the whole team
 - **Result**: Provincial Top 5, advanced to the final
 
-→ Full material: [accounting-prep-bootcamp](https://github.com/yyj710/accounting-prep-bootcamp)
+→ Full material: [accounting-prep-bootcamp](https://github.com/yyj710/accounting-prep-bootcamp) ([how the prep was done](https://github.com/yyj710/accounting-prep-bootcamp/blob/main/STORY.md))
 
 ### 3. Lingnan University Business Case Competition (LUBCC, Apr 2026) | Team member | 3rd Prize (6th place)
 

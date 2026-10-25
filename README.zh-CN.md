@@ -52,7 +52,7 @@
 - **工具链与质量**：xlsx 结构化 → Python 脚本解析/拼装/独立校验（重排后与原题库逐字比对零差异）→ 导出 Word 手册发全队
 - **结果**：广东省前 5，晋级决赛
 
-→ 全套资料：[accounting-prep-bootcamp](https://github.com/yyj710/accounting-prep-bootcamp)
+→ 全套资料：[accounting-prep-bootcamp](https://github.com/yyj710/accounting-prep-bootcamp)（[备赛过程故事](https://github.com/yyj710/accounting-prep-bootcamp/blob/main/STORY.zh-CN.md)）
 
 ### 3. 岭南大学商业案例分析大赛 LUBCC（2026.04.12）｜队员｜三等奖（第 6 名）
 
